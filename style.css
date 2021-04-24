@@ -14,7 +14,7 @@ body {
 .container {
   display: grid;
   gap: 10px;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 /* HEADER */
@@ -247,7 +247,6 @@ header {
   .menu {
     order: -1;
     justify-items: end;
-    align-items: center;
   }
   .menu-toggle {
     display: flex;
