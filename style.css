@@ -219,12 +219,17 @@ footer {
   margin-top: 50px;
 }
 
+footer p a {
+  color: crimson;
+  text-decoration: none;
+}
+
 footer h4 {
   /* background-color: red; */
   padding: 10px;
 }
 
-footer a {
+footer h4 a {
   color: black;
   text-decoration: none;
 }
