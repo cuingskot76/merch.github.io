@@ -198,7 +198,7 @@ header {
 /* GALLERY */
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   margin-top: 100px;
   gap: 5px;
   /* row-gap: 0; */
